@@ -1,0 +1,56 @@
+* {
+	box-sizing: border-box;
+}
+#main-box {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+
+}
+#line1 {
+	width: 800px;
+	height: 200px;
+	border: 1px solid black;
+	display: flex;
+}
+
+#line2 {
+	width: 800px;
+	height: 300px;
+	border: 1px solid black;
+	display: flex;
+}
+#green-box {
+	background-color: green;
+	width: 50%;
+	height: 200px;
+	border: 1px solid black;
+}
+
+#blue-box {
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+	border: 1px solid black;
+}
+
+#grey-box {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+}
+
+#black-box {
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+}
+
+#orange-box {
+	background-color: orange;
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+}
